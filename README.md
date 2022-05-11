@@ -1,7 +1,5 @@
-# Rogue-Lineage-Overlay-Tool
-Bare bones tool aimed to make custom overlays as simple as possible.
-
-Don't expect much from this as it was made over the course of a school day during lunch.
+# Rogue Lineage Overlay Tool
+Bare bones tool for on-the-spot overlay customization aimed to be as simple as possible.
 
 # Info
 Your game MUST be in full screen
