@@ -8,7 +8,7 @@ Your game MUST be in full screen
 
 The only supported resolution is 1080p
 
-#Todo List
+# Todo List
 Make a functional tool | ✔️
 
 Add customizable border colors | ✔️
