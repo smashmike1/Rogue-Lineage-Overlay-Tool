@@ -13,6 +13,8 @@ Make a functional tool | ✔️
 
 Add customizable border colors | ✔️
 
+1440p support | ❌
+
 Add customizable higlighted zones (snaps and such) | ❌
 
 Add support for more than one zone | ❌
