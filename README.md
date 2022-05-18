@@ -1,18 +1,40 @@
-# Rogue Lineage Overlay Tool
-Bare bones tool for on-the-spot overlay customization aimed to be as simple as possible.
+# Overlay tool
 
-# Info
-Your game MUST be in full screen
+Barely functioning edition
 
-The only supported resolution is 1080p
+## Supported OS Versions
 
-# Todo List
-Make a functional tool | ✔️
+> Windows 10 <br> Windows 11
 
-Add customizable border colors | ✔️
+## Usage
 
-1440p support | ❌
+Run Overlay.bat or create a shortcut to the application
 
-Add customizable higlighted zones (snaps and such) | ❌
+__Must__ be in 1080p
 
-Add support for more than one zone | ❌
+The application must stay in the debug folder or it will not run <br>(_Unless you have .NET 6 installed_) <-- You dont
+
+## Features
+
+1. Higlighted Casting Zones
+    > Normal and Snap cast support for 8 spells (Create an issue to request another spell)
+    
+    > Currently supports 1 spell at a time 
+
+2. Customizable colors
+    > Zone color
+
+    > Outline color
+
+3. Open-Source 
+
+    (You can't call this a virus)
+
+## Todo
+
+1. Support for multiple spells
+2. Custom zones
+3. Mac support (Dom)
+4. Auto-Update (_idk how_)
+5. More settings
+6. 1440p
